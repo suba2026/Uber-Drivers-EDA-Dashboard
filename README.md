@@ -31,6 +31,11 @@ The main objective of this project is to:
 | VS Code      | Development Environment    |
 | Git & GitHub | Version Control            |
 
+![dashboard1](images/dashboard_01.png)
+![dashboard2](images/dashboard_02.png)
+![dashboard3](images/dashboard_03.png)
+![dashboard4](images/dashboard_04.png)
+
 
 # 🚀 Project Features
 
